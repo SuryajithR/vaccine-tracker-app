@@ -93,10 +93,10 @@ http://localhost:5173
 ## 📸 Screenshots
 
 - Login Page
-  (assets/Login Page.png)
+  (ScreenShots/Login Page.png)
   
 - Registration Page
-  (assets/Register Page.png)
+  (ScreenShots/Register Page.png)
   
 - Dashboard Page
-  (assets/Dashboard.png)
+  (ScreenShots/Dashboard.png)
