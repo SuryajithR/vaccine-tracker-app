@@ -4,7 +4,7 @@ A responsive full-stack application that helps users manage their immunization r
 
 ## Tech Stack
 - Frontend: Vue.js 3 + Vue Router + Axios
-- Backend: Java Spring Boot (Spring MVC) + JPA
+- Backend: Java Spring Boot (Spring MVC)
 - Database: MySQL
 
 ## Features
