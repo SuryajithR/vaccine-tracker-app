@@ -1,0 +1,57 @@
+/* =========================================================
+   ✅ THEME VARIABLES
+========================================================= */
+
+:root{
+  /* Backgrounds */
+  --bg: #f6f8ff;         /* very light pastel blue */
+  --card: #ffffff;       /* clean white cards */
+  --card-border: #e6ebff;
+
+  /* Text */
+  --text: #1d2a44;       /* deep navy for strong readability */
+  --muted: #637089;      /* muted gray-blue */
+
+  /* Brand / Action colors */
+  --primary: #6c8cff;    /* pastel royal blue */
+  --accent: #39c6ba;     /* pastel teal */
+  --danger: #ff6b81;     /* soft pastel red */
+
+  /* Border radius */
+  --radius: 16px;
+}
+
+/* =========================================================
+   ✅ GLOBAL RESETS
+========================================================= */
+
+*{
+  box-sizing: border-box;
+}
+
+/* =========================================================
+   ✅ BASE ELEMENT STYLES
+========================================================= */
+
+body{
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Links */
+a{
+  color: var(--primary);
+  text-decoration: none;
+}
+
+/* =========================================================
+   ✅ SHARED CARD BASE (Optional base style)
+========================================================= */
+
+.card{
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+}
