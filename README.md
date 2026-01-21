@@ -92,11 +92,12 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-- Login Page
-  (ScreenShots/Login Page.png)
-  
-- Registration Page
-  (ScreenShots/Register Page.png)
-  
-- Dashboard Page
-  (ScreenShots/Dashboard.png)
+- Login Page  
+  ![Login Page](ScreenShots/Login%20Page.png)
+
+- Registration Page  
+  ![Registration Page](ScreenShots/Register%20Page.png)
+
+- Dashboard Page  
+  ![Dashboard Page](ScreenShots/Dashboard.png)
+
